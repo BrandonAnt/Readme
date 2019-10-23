@@ -1,2 +1,2 @@
 # Readme
-read it
+this is my README
